@@ -1,4 +1,4 @@
 
 # description
 
-![alt text](../images/flow-chart.jpeg)
+![alt text](./images/flow-chart.jpeg)
