@@ -1,4 +1,4 @@
-## Homework
+## Homework
 
 - when we change itemName, it should update Total and Total Include Delivery
 - Free delivery should be set by default
