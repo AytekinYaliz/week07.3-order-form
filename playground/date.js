@@ -44,11 +44,3 @@ function isNumeric(n) {
 //date(32/01/2019) ==>false
 //date(29/02/2020) ==> true
 //date()
-
-
-
-
-
-
-
-
